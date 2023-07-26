@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Roge
+- 🌱 I’m currently learning Dart & Flutter
+- 💞️ I’m currently working in Numier TPV
+- 📫 How to reach me --> personal github perfil --> @RogeMB
